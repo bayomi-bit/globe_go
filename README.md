@@ -31,7 +31,7 @@ Globe Go is an AI-powered tourism application built with Flutter that helps tour
 </p>
 
 <p align="center">
-  <img src="assets/images/6.jpeg" width="220">
+  <img src="assets/images/6..jpeg" width="220">
   <img src="assets/images/c.jpeg" width="220">
 </p>
 
